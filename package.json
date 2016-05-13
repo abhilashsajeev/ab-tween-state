@@ -1,5 +1,5 @@
 {
-  "name": "ab-react-tween-state",
+  "name": "ab-tween-state",
   "version": "0.1.0",
   "description": "React animation.",
   "main": "lib/index.js",
